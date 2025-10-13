@@ -21,5 +21,10 @@ Starting with a `.txt` or `.tsv` file, the analysis proceeds as follows:
 4. **get_vines** notebook  
    Computes the vineyards.
 
-5. **TpOT_matching** notebook  
+5. **vis_vines** notebook  
+   Visualizes the vineyards saved in the vines folder, providing 2D and 3D plots.
+ 
+6. **TpOT_matching** notebook  
    Computes the TpOT algorithm.
+
+
